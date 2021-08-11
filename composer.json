@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "myapp\\": "src/"
+        }
+    },
+    "require": {
+        "ircmaxell/random-lib": "1.0.*",
+
+        "php": ">=5.4.0",
+        "abraham/twitteroauth": "^3.1"
+    }
+}
